@@ -15,95 +15,92 @@ I enjoy designing scalable backends, REST APIs, and solving real-world problems.
 
 <table>
 <tr>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Restaurant Order Management</b><br/>
-Web + Android restaurant system<br/>
+Web + Android system<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://res.cloudinary.com/dyqmmzz5f/image/upload/v1773039020/Arduno_eacmhy.jpg" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>E-Commerce Store</b><br/>
-Full online shopping platform<br/>
+Full online shopping<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+2" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Chat Application</b><br/>
-Real-time messaging app<br/>
+Real-time messaging<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+3" width="120" height="75"/>
 </td>
-</tr>
-
-<tr>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Task Manager</b><br/>
 Team productivity tool<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+4" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+</tr>
+
+<tr>
+<td width="25%" valign="middle" align="center">
 <b>Blog Platform</b><br/>
-Content management system<br/>
+Content management<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+5" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Weather Dashboard</b><br/>
-Live weather application<br/>
+Live weather app<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+6" width="120" height="75"/>
 </td>
-</tr>
-
-<tr>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Portfolio Website</b><br/>
-Personal developer portfolio<br/>
+Personal portfolio<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+7" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Inventory System</b><br/>
-Stock & warehouse management<br/>
+Stock & warehouse<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+8" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+</tr>
+
+<tr>
+<td width="25%" valign="middle" align="center">
 <b>Learning Platform</b><br/>
 Online courses & quizzes<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+9" width="120" height="75"/>
 </td>
-</tr>
-
-<tr>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Expense Tracker</b><br/>
-Personal finance manager<br/>
+Personal finance<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+10" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Job Portal</b><br/>
-Job posting & application system<br/>
+Job posting system<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+11" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Social Media App</b><br/>
-Feed, like, comment & share<br/>
+Feed, like & share<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+12" width="120" height="75"/>
@@ -111,26 +108,29 @@ Feed, like, comment & share<br/>
 </tr>
 
 <tr>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Hospital Management</b><br/>
-Patient & doctor management<br/>
+Patient & doctor<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+13" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>Food Delivery App</b><br/>
 Order food online<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+14" width="120" height="75"/>
 </td>
-<td width="33%" valign="middle" align="center">
+<td width="25%" valign="middle" align="center">
 <b>CRM Dashboard</b><br/>
-Customer relationship management<br/>
+Customer management<br/>
 <a href="#"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Live-0A66C2?style=flat-square&logo=google-chrome&logoColor=white"/></a><br/>
 <img src="https://via.placeholder.com/120x75?text=Project+15" width="120" height="75"/>
+</td>
+<td width="25%" valign="middle" align="center">
+<!-- Empty for odd number -->
 </td>
 </tr>
 </table>
